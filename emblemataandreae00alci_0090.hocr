@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblemataandreae00alci/emblemataandreae00alci_0090.png"; bbox 0 0 1762 2849; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 432 1632 1531 1761">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 432 1632 1531 1761">
+     <span class='ocr_line' id='line_1_1' title="bbox 432 1632 1269 1695; baseline -0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 432 1635 626 1694; x_wconf 76' lang='lat' dir='ltr'><strong><em>Aligerwm</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 649 1632 784 1695; x_wconf 63' lang='lat' dir='ltr'><em>fiaelmen</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 802 1633 916 1694; x_wconf 62' lang='lat' dir='ltr'><em>fregit</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 931 1642 1036 1678; x_wconf 70' lang='lat' dir='ltr'><strong><em>Dcm</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1053 1633 1269 1694; x_wconf 68' lang='lat' dir='ltr'><strong><em>aligcr2igne</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 496 1697 1531 1761; baseline -0.003 -19"><span class='ocrx_word' id='word_1_6' title='bbox 496 1707 618 1747; x_wconf 65' lang='lat' dir='ltr'><strong><em>„Dum</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 640 1698 869 1747; x_wconf 66' lang='lat' dir='ltr'><em>demonstrat</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 890 1701 944 1745; x_wconf 81' lang='lat' dir='ltr'><strong><em>uti</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 965 1698 1017 1760; x_wconf 63' lang='lat' dir='ltr'><strong><em>est</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1031 1697 1171 1761; x_wconf 66' lang='lat' dir='ltr'><em>fiartior</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1192 1701 1287 1760; x_wconf 65' lang='lat' dir='ltr'><em>ignbs</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1307 1712 1426 1745; x_wconf 82' lang='lat' dir='ltr'><strong><em>amor.</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1495 1711 1531 1739; x_wconf 72' lang='grc'><em>;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 124 0 1762 2583">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 124 0 1762 2583">
+     <span class='ocr_line' id='line_1_3' title="bbox 124 0 1762 2583; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 124 0 1762 2583; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
